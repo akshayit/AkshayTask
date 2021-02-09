@@ -1,0 +1,191 @@
+{
+	"Products": [{
+			"Id": "1",
+			"Title": "Product A",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/a.jpg",
+			"OrgPrice": 7,
+			"Price": 7
+		}, {
+			"Id": "2",
+			"Title": "Product B",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/b.jpg",
+			"OrgPrice": 5,
+			"Price": 5
+		}, {
+			"Id": "3",
+			"Title": "Product C",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/c.jpg",
+			"OrgPrice": 6,
+			"Price": 6
+		}, {
+			"Id": "4",
+			"Title": "Product D",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/d.jpg",
+			"OrgPrice": 60,
+			"Price": 60
+		}, {
+			"Id": "5",
+			"Title": "Product E",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/e.jpg",
+			"OrgPrice": 10,
+			"Price": 10
+		}, {
+			"Id": "6",
+			"Title": "Product F",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/f.jpg",
+			"OrgPrice": 12,
+			"Price": 12
+		}, {
+			"Id": "7",
+			"Title": "Product G",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/g.jpg",
+			"OrgPrice": 7,
+			"Price": 7
+		}, {
+			"Id": "8",
+			"Title": "Product H",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/h.jpg",
+			"OrgPrice": 65,
+			"Price": 65
+		}, {
+			"Id": "9",
+			"Title": "Product I",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/i.jpg",
+			"OrgPrice": 100,
+			"Price": 100
+		}, {
+			"Id": "10",
+			"Title": "Product J",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/j.jpg",
+			"OrgPrice": 55,
+			"Price": 55
+		}, {
+			"Id": "11",
+			"Title": "Product K",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/k.jpg",
+			"OrgPrice": 65,
+			"Price": 55,
+			"Campaigns":["Sale", "Organic sale"]
+		}, {
+			"Id": "12",
+			"Title": "Product L",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Bird",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/l.jpg",
+			"OrgPrice": 40,
+			"Price": 40
+		}, {
+			"Id": "13",
+			"Title": "Product M",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/m.jpg",
+			"OrgPrice": 12,
+			"Price": 12
+		}, {
+			"Id": "14",
+			"Title": "Product N",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/n.jpg",
+			"OrgPrice": 11,
+			"Price": 11,
+			"IsNew": true
+		}, {
+			"Id": "15",
+			"Title": "Product O",
+			"Category": "Alphabet Letter",
+			"SubCategory": "Letters",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/o.jpg",
+			"OrgPrice": 14,
+			"Price": 14
+		}, {
+			"Id": "16",
+			"Title": "Product P",
+			"Category": "Alphabet Letter",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/p.jpg",
+			"OrgPrice": 12,
+			"Price": 12
+		}, {
+			"Id": "17",
+			"Title": "Product Q",
+			"Category": "Alphabet Letter",
+			"Manufacturer": "Alpha Letters",
+			"Contents": "Alphabets Letters",
+			"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.",
+			"ImageUrl": "http://localhost:5000/product-images/q.jpg",
+			"OrgPrice": 5,
+			"Price": 5
+		}
+	]
+}
