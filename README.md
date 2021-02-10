@@ -1,2 +1,0 @@
-# AkshayTask
-Tech Challange Cybrilla 

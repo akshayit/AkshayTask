@@ -1,2 +1,11 @@
-const server = require('./server/index');
-server.start();
+const app = require('./app.js');
+const db = require('./config/db.js');
+
+const PORT = process.env.PORT || 5000;
+
+db.connect()
+  .then(() => {
+    app.listen(PORT, () => {
+      console.log('Listening on port: ' + PORT);
+    });
+  });
